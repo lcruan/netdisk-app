@@ -1,4 +1,5 @@
 {
-  "navigationBarTitleText": "uni-app",
-  "usingComponents": {}
+  "usingComponents": {
+    "nav-bar": "/components/common/nav-bar"
+  }
 }
